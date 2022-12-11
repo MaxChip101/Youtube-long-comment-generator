@@ -3,7 +3,7 @@ import time
 
 commentlen = 3332 # 3332 is the maximum characters youtube can handle
 
-print("< YouTube longest comment generator : By MaxChip >")
+print("< YouTube longest comment generator : By MaxChip101 >")
 begginingletter = input("Input a beggining character: ")
 endingletter = input("Input an ending character: ")
 savefile = input("Save to directory: ")
